@@ -1,0 +1,16 @@
+ 
+
+/* Borders */ 
+.border {
+  border: 0.3px solid black !important;
+}
+
+div.col-sm {
+	height: auto;
+}
+
+.navbar-collapse {
+	flex-grow: 0;
+}
+
+
